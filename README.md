@@ -27,14 +27,6 @@ Each publication is both a security investigation and a time capsule. Earlier ca
 |---|---|---|
 | **001** | [CVE-2026-73570](CVE-2026-73570/README.md) — Zimbra Collaboration Suite SNMP monitoring sink command injection | Preserved retrospective baseline |
 
-> [!NOTE]
-> Case 001 includes a controlled adaptation to exercise the vulnerable sink; it does not demonstrate that the same trigger path exists in an unmodified installation.
-
-Case 001 contains the original paper, laboratory material, exploitation code, detection rules, remediation guidance, incident-response playbook, evidence, and videos produced during the AI-agent run.
-
-> [!CAUTION]
-> The case includes offensive code for controlled analysis. Publication does not authorize testing against any system. Use it only on systems you own or are explicitly authorized to test, inside an isolated laboratory.
-
 ## How the research is produced
 
 ```text
@@ -60,12 +52,7 @@ Except for identified third-party material, the research artifacts, code, labora
 
 **Miguel Zabala**, Founder of Xpectra.ai, defines the objectives, contributes offensive-security judgment, requests clarifications, controls scope, and approves publication. The execution and production pipeline itself is AI-native.
 
-Case 001 was powered by:
-
-- **Qwen3.8-27B-FP8**
-- **DeepSeek-V4-Flash-0731**
-
-Prompts and private reasoning traces are not published. The public record focuses on the resulting investigation, artifacts, limitations, and defensive value.
+Each case identifies its models, artifacts, methodological limitations, and safety context inside its own README. Prompts and private reasoning traces are not published.
 
 ## Research infrastructure
 
@@ -95,7 +82,7 @@ This hardware supports local model inference, long-horizon agent execution, isol
 
 ## Preserving the record
 
-The complete `CVE-2026-73570/` directory is retained as the original AI-generated research record. It is not silently rewritten to match later editorial or methodological standards.
+Each CVE directory is a self-contained research record. Its README carries the case-specific context, limitations, contents, models, and safety guidance, keeping this project overview stable as the collection grows.
 
 As new cases are added, this repository will make it possible to observe how autonomous research changes across models, harnesses, hardware generations, and increasingly capable agent systems.
 

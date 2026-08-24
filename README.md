@@ -66,8 +66,8 @@ Each case identifies its models, artifacts, methodological limitations, and safe
 
 The local research environment includes:
 
-- one [Dell Pro Max Tower T2](https://www.dell.com/en-us/shop/desktop-computers/new-dell-pro-max-tower-t2-desktop/spd/dell-pro-max-fct2250-desktop/bts105d_fct2250_usx) equipped with an [NVIDIA RTX PRO 6000 Blackwell Workstation Edition](https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/rtx-pro-6000/);
-- two [Dell Pro Max with GB10](https://www.dell.com/en-in/shop/desktop-computers/dell-pro-max-with-gb10/spd/dell-pro-max-fcm1253-micro) systems.
+- [Dell Pro Max Tower T2](https://www.dell.com/en-us/shop/desktop-computers/new-dell-pro-max-tower-t2-desktop/spd/dell-pro-max-fct2250-desktop/bts105d_fct2250_usx) equipped with an [NVIDIA RTX PRO 6000 Blackwell Workstation Edition](https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/rtx-pro-6000/);
+- x2 [Dell Pro Max with GB10](https://www.dell.com/en-in/shop/desktop-computers/dell-pro-max-with-gb10/spd/dell-pro-max-fcm1253-micro) systems.
 
 This hardware supports local model inference, long-horizon agent execution, isolated security laboratories, evidence processing, and technical media production. Publishing the resulting knowledge is one way of returning that support to the wider defensive community.
 

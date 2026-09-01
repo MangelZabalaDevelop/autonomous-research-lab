@@ -26,6 +26,7 @@ Each publication is both a security investigation and a time capsule. Earlier ca
 | Case | Subject | Publication state |
 |---|---|---|
 | **001** | [CVE-2026-73570](CVE-2026-73570/README.md) — Zimbra Collaboration Suite SNMP monitoring sink command injection | Preserved retrospective baseline |
+| **002** | [CVE-2026-60004](CVE-2026-60004/README.md) — Gitea diffpatch API Git hook code injection | Current research release |
 
 ## How the research is produced
 

@@ -28,6 +28,7 @@ Each publication is both a security investigation and a time capsule. Earlier ca
 | **001** | [CVE-2026-73570](CVE-2026-73570/README.md) — Zimbra Collaboration Suite SNMP monitoring sink command injection | Preserved retrospective baseline |
 | **002** | [CVE-2026-60004](CVE-2026-60004/README.md) — Gitea diffpatch API Git hook code injection | Current research release |
 | **003** | [CVE-2026-82078](CVE-2026-82078/README.md) — PaperCut NG/MF authentication-bypass to unsafe-driver-loading chain | Current research release |
+| **004** | [CVE-2026-85706](CVE-2026-85706/README.md): GitLab CE/EE unauthenticated path traversal in the repository commits API | Current research release |
 
 ## How the research is produced
 

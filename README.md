@@ -1,4 +1,4 @@
-# Xpectra Research — Autonomous Research Lab
+# Xpectra Research: Autonomous Research Lab
 
 **AI-native vulnerability research. Human-governed scope. Defender-focused outcomes.**
 
@@ -25,10 +25,11 @@ Each publication is both a security investigation and a time capsule. Earlier ca
 
 | Case | Subject | Publication state |
 |---|---|---|
-| **001** | [CVE-2026-73570](CVE-2026-73570/README.md) — Zimbra Collaboration Suite SNMP monitoring sink command injection | Preserved retrospective baseline |
-| **002** | [CVE-2026-60004](CVE-2026-60004/README.md) — Gitea diffpatch API Git hook code injection | Current research release |
-| **003** | [CVE-2026-82078](CVE-2026-82078/README.md) — PaperCut NG/MF authentication-bypass to unsafe-driver-loading chain | Current research release |
+| **001** | [CVE-2026-73570](CVE-2026-73570/README.md): Zimbra Collaboration Suite SNMP monitoring sink command injection | Preserved retrospective baseline |
+| **002** | [CVE-2026-60004](CVE-2026-60004/README.md): Gitea diffpatch API Git hook code injection | Current research release |
+| **003** | [CVE-2026-82078](CVE-2026-82078/README.md): PaperCut NG/MF authentication-bypass to unsafe-driver-loading chain | Current research release |
 | **004** | [CVE-2026-85706](CVE-2026-85706/README.md): GitLab CE/EE unauthenticated path traversal in the repository commits API | Current research release |
+| **005** | [CVE-2026-58138](CVE-2026-58138/README.md): Orkes Conductor unauthenticated RCE through GraalVM script evaluators | Current research release |
 
 ## How the research is produced
 
@@ -93,7 +94,7 @@ This hardware supports local model inference, long-horizon agent execution, isol
 - Research execution is limited to owned or explicitly authorized systems.
 - No third-party target is scanned, accessed, or modified.
 - Vendor binaries and licensed installation media are not redistributed.
-- Offensive artifacts are published for analysis, detection, validation, and defense—not as authorization to deploy them against a target.
+- Offensive artifacts are published for analysis, detection, validation, and defense, not as authorization to deploy them against a target.
 - The public corpus is produced by the AI-agent pipeline and is not opened to external contributions that would change its experimental provenance.
 
 ## Preserving the record

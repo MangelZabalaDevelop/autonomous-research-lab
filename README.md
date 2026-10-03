@@ -30,6 +30,7 @@ Each publication is both a security investigation and a time capsule. Earlier ca
 | **003** | [CVE-2026-82078](CVE-2026-82078/README.md): PaperCut NG/MF authentication-bypass to unsafe-driver-loading chain | Current research release |
 | **004** | [CVE-2026-85706](CVE-2026-85706/README.md): GitLab CE/EE unauthenticated path traversal in the repository commits API | Current research release |
 | **005** | [CVE-2026-58138](CVE-2026-58138/README.md): Orkes Conductor unauthenticated RCE through GraalVM script evaluators | Current research release |
+| **006** | [CVE-2026-53988](CVE-2026-53988/README.md): Dockhand unauthenticated Git webhook trigger to managed Docker host compromise | Current research release |
 
 ## How the research is produced
 
